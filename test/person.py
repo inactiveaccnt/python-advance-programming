@@ -13,5 +13,5 @@ class Person(object):
 
 
     def calculate_weight(self):
-        weight = 5
+        weight = 45
         return weight
