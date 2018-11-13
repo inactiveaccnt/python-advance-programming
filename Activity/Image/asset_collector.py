@@ -5,5 +5,5 @@ IMG = {
     'three'     :'C:/Users/Jayson Abad/Desktop/Advanced Programming/Activity/Image/text_image.jpg',
     'four'      :'C:/Users/Jayson Abad/Desktop/Advanced Programming/Activity/Image/subject-002.jpg',
     'five'      :'C:/Users/Jayson Abad/Desktop/Advanced Programming/Activity/Image/subject-001.jpg',
-    'six'      :'C:/Users/Jayson Abad/Desktop/Advanced Programming/Activity/Image/subject-003.png',
+    'six'       :'C:/Users/Jayson Abad/Desktop/Advanced Programming/Activity/Image/subject-003.png',
 }
