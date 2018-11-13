@@ -9,6 +9,8 @@ from Activity_5.activity_5 import Activity5
 from ImageProcessing.imagepro import ImageProcess
 from Activity_6.activity_6 import Activity6
 from Activity_7.activity_7 import Activity7
+from Activity_8.activity_8 import Activity8
+from Activity_9.activity_9 import Activity9
 
 if __name__ == '__main__':
     #Activity_2_0()
@@ -20,4 +22,6 @@ if __name__ == '__main__':
     #Activity5()
     #ImageProcess()
     #Activity6()
-    Activity7()
+    #Activity7()
+    #Activity8()
+    Activity9()
