@@ -14,3 +14,8 @@ My College Works
   <li>pip install numpy</li>
   <li>pip install matplotlib</li>
 </ul>
+
+## **
+
+<p>Walang Activity 3</p><br>
+<p>Absent ako nun :)</p>
