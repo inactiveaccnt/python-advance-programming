@@ -17,5 +17,5 @@ My College Works
 
 ## **
 
-<p>Walang Activity 3</p><br>
+<p>Walang Activity 3</p>
 <p>Absent ako nun :)</p>
