@@ -15,7 +15,7 @@ My College Works
   <li>pip install matplotlib</li>
 </ul>
 
-## **
+## ** Note
 
 <p>Walang Activity 3</p>
 <p>Absent ako nun :)</p>
