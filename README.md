@@ -9,8 +9,10 @@ My College Works
 </ul>
 
 ## Installs
+<p>Open your command prompt and type in these commands. Be sure you already installed python 3.7 and added pip in your system environment variables.</p>
 <ul>
-  <li>pip install opnencv-python</li>
+  <li>pip install opencv-python</li>
+  <li>pip install opencv-contrib-python</li>
   <li>pip install numpy</li>
   <li>pip install matplotlib</li>
 </ul>
